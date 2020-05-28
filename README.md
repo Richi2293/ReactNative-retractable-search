@@ -1,4 +1,6 @@
 ReactNative-retractable-search
 
 
-![Result of the example](https://github.com/Richi2293/ReactNative-retractable-search/example.gif)
+Example of the result
+
+<img width="964" alt="" src="https://github.com/Richi2293/ReactNative-retractable-search/blob/master/example.gif">
